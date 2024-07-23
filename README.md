@@ -69,11 +69,6 @@ The CollegeConnect Information System addresses these challenges by providing a 
    - Relational database to store all records.
    - Efficient data retrieval and updates.
 
-10. **User Interface**
-    - Admin interface for superusers, teachers, and accountants.
-    - Parent interface for viewing child’s details and making payments.
-    - User-friendly design for ease of use.
-
 ## UI/UX Design
 
 The CollegeConnect Information System features an intuitive user interface and user experience design to ensure ease of use for all users. Below are some wireframes illustrating the key pages of the system:
@@ -83,19 +78,19 @@ The CollegeConnect Information System features an intuitive user interface and u
 1. **Login Page**
    - Simple and secure login interface for all user roles.
 
-![Login Page Wireframe](path/to/login_page_wireframe.png)
+![Login Page Wireframe](Assets/Screenshot 2024-07-23 at 15.54.58.png)
 
 2. **Dashboard**
    - Overview of system status for superusers.
 
-![Dashboard Wireframe](path/to/dashboard_wireframe.png)
+![Dashboard Wireframe](Assets/Screenshot 2024-07-23 at 15.55.04.png)
 
-3. **Parent Portal**
-   - Comprehensive view of child’s performance, attendance, and account status.
+<!-- 3. **Parent Portal**
+   - Comprehensive view of child’s performance, attendance, and account status. -->
 
-![Parent Portal Wireframe](path/to/parent_portal_wireframe.png)
+<!-- ![Parent Portal Wireframe](assets/parent_portal_wireframe.png) -->
 
-4. **Attendance Management**
+<!-- 4. **Attendance Management**
    - Interface for teachers to take and update attendance.
 
 ![Attendance Management Wireframe](path/to/attendance_management_wireframe.png)
@@ -103,12 +98,12 @@ The CollegeConnect Information System features an intuitive user interface and u
 5. **Performance Tracking**
    - Interface for updating and viewing student performance.
 
-![Performance Tracking Wireframe](path/to/performance_tracking_wireframe.png)
+![Performance Tracking Wireframe](path/to/performance_tracking_wireframe.png) -->
 
-6. **Account Management**
+4. **Account Management**
    - Interface for accountants to update and view account statuses.
 
-![Account Management Wireframe](path/to/account_management_wireframe.png)
+![Account Management Wireframe](Assets/account_management_wireframe.png)
 
 ## Getting Started
 
