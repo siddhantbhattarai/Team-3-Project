@@ -94,7 +94,7 @@ The CollegeConnect Information System features an intuitive user interface and u
 
 - Interface for teachers to take and update attendance.
 
-![Attendance Management Wireframe](path/to/attendance.png)
+![Attendance Management Wireframe](Assets/attendance.png)
 
 <!-- 5. **Performance Tracking**
    - Interface for updating and viewing student performance.
